@@ -30,7 +30,7 @@ I am dedicated to honing my skills to become a cybersecurity and networking expe
 
 Let's connect and explore the exciting possibilities at the intersection of technology and cybersecurity! Feel free to reach out for collaborations, discussions, or just to say hello.
 
-- LinkedIn: [Vikas Chaurasiya](#) *(Insert your LinkedIn profile link here)*
+- LinkedIn: [Vikas Chaurasiya](#) *(https://www.linkedin.com/in/vikas-chaurasiya-vikas)*
 
 ## Acknowledgements
 
