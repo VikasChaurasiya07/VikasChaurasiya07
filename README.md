@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="path/to/style.css">
-</head>
 <h1 align="center">Hi, I'm Vikas Chaurasiya! 👋</h1>
 
  <p align="center">
