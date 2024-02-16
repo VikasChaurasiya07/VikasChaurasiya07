@@ -1,12 +1,29 @@
-- 👋 Hi, I’m Vikas Chaurasiya
+<head>
+  <link rel="stylesheet" type="text/css" href="path/to/style.css">
+</head>
+<h1 align="center">Hi, I'm Vikas Chaurasiya! 👋</h1>
+
+ <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/146510362?s=96&v=4" alt="Vikas Chaurasiya">
+</p>
+
+<p align="center">Enthusiastic about networking, cyber security, and web development.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Advanced%20Cybersecurity%20|%20Web%20Frameworks-informational?style=flat-square&logo=learning&logoColor=white&color=blueviolet" alt="Learning">
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Cybersecurity,%20Networking,%20and%20Web%20Dev%20Projects-success?style=flat-square&color=brightgreen" alt="Collaboration">
+  <a href="https://www.linkedin.com/in/vikas-chaurasiya-vikas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"></a>
+</p>
+
 - 👀 I’m interested in networking, cyber security, and web development.
 - 🌱 I’m currently learning more about advanced cyber security techniques and web development frameworks.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, networking, or web development.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](#) *(https://www.linkedin.com/in/vikas-chaurasiya-vikas)*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech gadgets and experimenting with coding projects in my free time!
+
+
+---
  
-<h1 align="center">Hi 👋, I'm Vikas Chaurasiya</h1>
 <h3 align="center">I’m interested in networking, cyber security, and web development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikaschaurasiya07" alt="vikaschaurasiya07" /></a> </p>
