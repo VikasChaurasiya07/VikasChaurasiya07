@@ -13,12 +13,19 @@
   <a href="https://www.linkedin.com/in/vikas-chaurasiya-vikas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"></a>
 </p>
 
+
+<img align="right" style="margin-top: 20px;" height="270px" alt="Medium GIF" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in networking, cyber security, and web development.
 - 🌱 I’m currently learning more about advanced cyber security techniques and web development frameworks.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, networking, or web development.
 - ⚡ Fun fact: I love exploring new tech gadgets and experimenting with coding projects in my free time!
-- 📫 How to reach me: Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-chaurasiya-vikas) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.__vikas07) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasChaurasiya07)
+- 📫 How to reach me: Feel free to connect with me on:
+ 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-chaurasiya-vikas) 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.__vikas07)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasChaurasiya07)
 
 
 
