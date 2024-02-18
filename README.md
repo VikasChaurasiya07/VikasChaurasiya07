@@ -96,7 +96,7 @@
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vikas-chaurasiya-vikas" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/vikaschaurasiya" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://github.com/VikasChaurasiya07" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" height="30" width="40" /></a>
   <a href="https://instagram.com/mr.__vikas07" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30" width="40" /></a>
 </p>
 
