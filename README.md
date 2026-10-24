@@ -82,17 +82,17 @@ Security Engineer focused on vulnerability assessment, penetration testing, and 
 
 ## Selected Projects
 
-- **VxSPY** — Android mobile security research and remote-access behaviour analysis.
-- **CyberShare** — Secure LAN communication platform built with React, Node.js, and MySQL.
-- **Wireless Security Research** — Wi-Fi, Bluetooth LE, BLE Mesh, SDR, and communication protocol security analysis.
-- **CVE Research** — Vulnerability reproduction, proof-of-concept development, and security automation.
+- **VxSPY** - Android mobile security research and remote-access behaviour analysis.
+- **CyberShare** - Secure LAN communication platform built with React, Node.js, and MySQL.
+- **Wireless Security Research** - Wi-Fi, Bluetooth LE, BLE Mesh, SDR, and communication protocol security analysis.
+- **CVE Research** - Vulnerability reproduction, proof-of-concept development, and security automation.
 
 ## Certifications
 
-- **eJPT** — INE
+- **eJPT** - INE
 - **INE Certified Cloud Associate (ICCA)**
-- **Google Cybersecurity Professional Certificate** — Coursera
-- **AWS Academy Graduate** — Introduction to Cloud
+- **Google Cybersecurity Professional Certificate** - Coursera
+- **AWS Academy Graduate** - Introduction to Cloud
 
 ## Connect
 
